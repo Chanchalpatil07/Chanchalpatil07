@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **chanchalpatil777@gmail.com** 
 
- 🔭 **I’m currently working on: Building Data Analytics projects using Python, SQL, Excel, and Power BI.**
- 🌱 **I’m Currently learning: Data Analytics and building skills in SQL, Python, Excel, and Power BI.** 
- 🎯 **Career Goal: To start my career as a Data Analyst and contribute to data-driven decision making in organizations.**
- 💻  **Skills: Python, SQL, Excel, Power BI, Data Visualization, Data Cleaning.**
- 📫  **Contact: chanchalpatil777gmail.com**
- ⚡  **Fun Fact: I enjoy exploring data and turning raw data into meaningful insights.**
+ -🔭 **I’m currently working on: Building Data Analytics projects using Python, SQL, Excel, and Power BI.**
+ -🌱 **I’m Currently learning: Data Analytics and building skills in SQL, Python, Excel, and Power BI.** 
+ -🎯 **Career Goal: To start my career as a Data Analyst and contribute to data-driven decision making in organizations.**
+ -💻  **Skills: Python, SQL, Excel, Power BI, Data Visualization, Data Cleaning.**
+ -📫  **Contact: chanchalpatil777gmail.com**
+ -⚡  **Fun Fact: I enjoy exploring data and turning raw data into meaningful insights.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chanchu__07__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanchal0723) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chanchalpatil777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanchapatil777@gmail.com) 
