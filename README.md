@@ -4,10 +4,15 @@
 Email Me 👉 ✉️ **chanchalpatil777@gmail.com** 
 
  -🔭 **I’m currently working on: Building Data Analytics projects using Python, SQL, Excel, and Power BI.**
+ 
  -🌱 **I’m Currently learning: Data Analytics and building skills in SQL, Python, Excel, and Power BI.** 
+ 
  -🎯 **Career Goal: To start my career as a Data Analyst and contribute to data-driven decision making in organizations.**
+ 
  -💻  **Skills: Python, SQL, Excel, Power BI, Data Visualization, Data Cleaning.**
+ 
  -📫  **Contact: chanchalpatil777gmail.com**
+ 
  -⚡  **Fun Fact: I enjoy exploring data and turning raw data into meaningful insights.**
 
 ## 🌐 Socials:
